@@ -1,2 +1,4 @@
 # FR_1718
-Fundamentos de redes
+## Fundamentos de redes
+
+Prácticas de fundamentos de redes
